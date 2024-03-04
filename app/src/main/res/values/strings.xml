@@ -1,0 +1,82 @@
+<resources>
+<string name="app_name">Delicia Beverage</string>
+<string name="page_title">Delicia Beverage</string>
+<string name="hint_customer_name">Customer Name:</string>
+<string name="hint_customer_email">Customer Email:</string>
+<string name="hint_customer_phone">Customer Phone:</string>
+<string name="t_beverage">Type of beverage:</string>
+<string name="t_tea">Tea</string>
+<string name="t_coffee">Coffee</string>
+<string name="t_additional">Additional:</string>
+<string name="t_milk">Milk</string>
+<string name="t_sugar">Sugar</string>
+<string name="t_beverage_size">Size of beverage:</string>
+<string name="t_small">Small</string>
+<string name="t_medium">Medium</string>
+<string name="t_large">Large</string>
+<string name="t_flavor">Beverage Flavor:</string>
+<string name="t_store">Store:</string>
+<string name="hint_region">Region:</string>
+<string name="date_hint">Sales Date:</string>
+<string name="btn_title">Submit</string>
+<string name="btn_back_title">Go back to Form</string>
+
+<string name="t_name">Customer Name: </string>
+<string name="t_email">Customer Email: </string>
+<string name="t_phone">Customer Phone: </string>
+<string name="t_beverage_type">Beverage Type: </string>
+<string name="t_additionals">Additionals: </string>
+<string name="t_beverage_size_a">Beverage Size: </string>
+<string name="t_beverage_flavor">Flavor: </string>
+<string name="t_region">Region: </string>
+<string name="t_store_a">Store: </string>
+<string name="t_sale_date">Sale Date: </string>
+<string name="t_total">Total: </string>
+<string name="t_tax">Tax: </string>
+<string name="t_final">Final Bill: </string>
+
+
+<string-array name="flavor_coffee">
+    <item>None</item>
+    <item>Pumpkin Spice</item>
+    <item>Chocolate</item>
+</string-array>
+
+<string-array name="flavor_tea">
+    <item>None</item>
+    <item>Lemon</item>
+    <item>Ginger</item>
+</string-array>
+
+<string-array name="region_array">
+    <item>Waterloo</item>
+    <item>Milton</item>
+    <item>London</item>
+    <item>Mississauga</item>
+</string-array>
+
+<string-array name="waterloo_store">
+    <item>65 University Ave E</item>
+    <item>415 King St</item>
+    <item>585 Weber St</item>
+</string-array>
+
+<string-array name="london_store">
+    <item>616 Wharncliffe Rd</item>
+    <item>1885 Huron St</item>
+    <item>670 Wonderland Road</item>
+    <item>1181 Highbury Ave</item>
+</string-array>
+
+<string-array name="milton_store">
+    <item>900 Steeles Ave</item>
+    <item>80 Market Dr</item>
+    <item>820 Main St</item>
+</string-array>
+
+<string-array name="mississauga_store">
+    <item>144 Dundas St</item>
+    <item>30 Eglinton Ave</item>
+    <item>6075 Creditview Rd</item>
+</string-array>
+</resources>
